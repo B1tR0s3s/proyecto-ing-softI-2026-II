@@ -1,0 +1,1 @@
+Este proyecto consiste en una plataforma web orientada a la gestión de pedidos de comida local para una startup ubicada en Cusco. Su objetivo principal es conectar a los clientes con la gastronomía cusqueña, facilitando el proceso de orden, pago y seguimiento de entrega de manera eficiente y moderna.
